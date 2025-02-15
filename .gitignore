@@ -1,0 +1,17 @@
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cahce/
+ModernEmailStarterFiles/
+123/
+foodapp/
+html/
+node_modules/
+public/
+src/
+venv/
+
+*.csv
+*.json
+*.txt
+*.zip
+*.xlsx
