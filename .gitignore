@@ -16,3 +16,5 @@ venv/
 *.zip
 *.xlsx
 *.env
+
+email_bot.py
