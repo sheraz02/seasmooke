@@ -17,4 +17,8 @@ venv/
 *.xlsx
 *.env
 
+xyz/
+
 email_bot.py
+
+
